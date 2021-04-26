@@ -53,7 +53,6 @@ sales.mercedes-khabarovsk.ru
 cars.avtomir-mitsubishi-saratov.ru
 cars.mazda-murmansk.ru
 cars.hyundai-autopole.ru
-autopole.store
 cars.hyundai-avtoray.ru
 chevrolet-avtodel.ru
 cars.avtoritet-m.ru
@@ -86,7 +85,7 @@ cars.kia-arkont.ru
 cars.hyundai-arkont.ru
 cars.audi-kemerovo.ru
 sales.mercedes-asmoto.ru
-cars.hyundai-atic.rucars
+cars.hyundai-atic.ru
 sales.mercedes-ivanovo.ru
 cars.renault-tomsk.com
 cars.audi-rostov.ru
